@@ -20,4 +20,3 @@ public class PriceQueryResponse {
     String startDate;
     String endDate;
     Float price;
-}
